@@ -25,3 +25,21 @@ This repository contains an elegant and responsive academic portfolio template b
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/academic-portfolio-template.git
+   ```
+
+1. **Navigate to the Project Directory**
+   ```bash
+   cd academic-portfolio-template
+   ```
+
+2. **Open `index.html` in Your Browser**
+   - Simply open the `index.html` file in your preferred web browser to see the template in action.
+
+
+## Customization
+To customize the template, edit the HTML (located in `pages`) and CSS (located in `assets`) files in the project directory. You can modify the structure, style, color theme, and content to fit your personal needs. The template is built with Bootstrap 4, so you can utilize Bootstrap's extensive class library for additional customization.
+
+---
+
+Rochana R. Obadage 
+28th May, 2024
