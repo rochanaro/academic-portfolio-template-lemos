@@ -20,6 +20,17 @@ This repository contains an elegant and responsive academic portfolio template b
 - **Publications**: Showcase your published papers, articles, and other scholarly work.
 - **Blogs**: Display your blog posts and articles.
 
+## Screenshots
+> ### Homepage
+> <img src="" width="750"> 
+
+> ### Education
+> <img src="" width="750"> 
+
+> ### Projects
+> <img src="" width="750"> 
+
+
 ## Getting Started
 
 1. **Clone the Repository**
@@ -39,7 +50,10 @@ This repository contains an elegant and responsive academic portfolio template b
 ## Customization
 To customize the template, edit the HTML (located in `pages`) and CSS (located in `assets`) files in the project directory. You can modify the structure, style, color theme, and content to fit your personal needs. The template is built with Bootstrap 4, so you can utilize Bootstrap's extensive class library for additional customization.
 
+<br>
+<br>
+
 ---
 
-Rochana R. Obadage 
-28th May, 2024
+<b>Rochana R. Obadage</b> <br>
+<i>28th May 2024</i>

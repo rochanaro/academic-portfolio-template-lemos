@@ -1,0 +1,120 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+:root {
+  /* --primary-colors --*/
+  --white-ish:#F9F7F7;
+  --light-gray: #DBE2EF;
+  --blue-light:#669bbc;
+  --blue-medium: #0077b6;
+  --blue-dark:rgb(15, 76, 117);
+  --dark-b: #003566;
+  --gray-black: #415a77;
+  --darker-b:#1B262C;
+
+  /* https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e */
+}
+
+
+h4,h5, p{
+    font-family: 'Ubuntu Sans', sans-serif;
+}
+
+a:hover {
+    color: var(--blue-medium) ;
+    text-decoration: none !important;
+    /* font-size:1.3rem !important; */
+}
+
+/* body > div > ol:nth-child(7) > li > button > a */
+
+.card-title{
+    font-weight: 800;
+}
+
+.small-lemos{
+    font-weight: 500;
+    font-size: smaller;
+    color: var(--blue-light);
+}
+
+.card{
+    background-color: var(--light-gray);
+}
+
+.card-subtitle{
+    font-weight: 700;
+    color: var(--blue-medium);
+}
+
+.span-lemos{
+    /* font-size: small; */
+    color: var(--gray-black);
+
+}
+
+.card-img-top{
+    /* border: var(--blue-medium) 1px solid; */
+    max-width: 250px;
+}
+
+.img-lemos{
+    background-color: var(--gray-black);
+}
+
+.activity-names{
+    font-weight: 600;
+    /* font-size: 90%; */
+}
+
+.activity-lemos{
+    font-size: 95%;
+}
+
+.card{
+	border: 1px solid var(--blue-light);
+/* 	background-color: var(--blue-medium); */
+	background-color: var(--bluish-gray);
+	
+}
+
+
+
+.btn-blue{
+    color: var(--white-ish) !important;
+    /* background-color: none; */
+    /* background-color: var(--blue-medium); */
+    background-color: var(--blue-light);
+    /* border: 2px solid var(--blue-medium); */
+}  
+
+.btn-blue > a{
+    color: var(--white-ish);
+    background-color: var(--blue-medium);
+    border-color: var(--light-gray);
+}
+
+button:hover{
+    font-size:1.0001rem ;
+    background-color: var(--blue-medium);
+    /* color: var(--white-ish) !important; */
+}
+
+
+
+.responsive-text {
+    font-size: 0.8rem; /* Base font size for extra small screens */
+}
+
+@media (min-width: 300px) {
+    .responsive-text {
+        font-size: 0.8rem; /* Small screens */
+    }
+}
+
+@media (min-width: 576px) {
+    .responsive-text {
+        font-size: 1rem; /* Medium screens */
+    }
+}

@@ -1,0 +1,135 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+:root {
+  /* --primary-colors --*/
+  --white-ish:#F9F7F7;
+  --light-gray: #DBE2EF;
+  --bluish-gray: #e4e9f1;
+  --blue-light:#669bbc;
+  --blue-medium: #0077b6;
+  --blue-medium-rgb: rgb(0, 119, 182);
+  --blue-dark:#0f4c75;
+  --dark-b: #003566;
+  --gray-black: #415a77;
+  --darker-b:#1B262C;
+
+  /* https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e */
+}
+
+html, body {
+    height:100%;
+}
+
+/* Use the root variable for primary color in your CSS */
+body {
+  background-color: var(--light-gray);
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'Ubuntu Sans', sans-serif;
+  color: var(--gray-black);
+  /* padding-bottom: 600px; */
+
+  
+  
+}
+
+/* .ref-author-lemos {
+    font-weight: 700; 
+    color:var(--darker-b);
+}
+
+.ref-journal{
+    font-weight: 700 !important; 
+    font-style: italic !important;
+    color:var(--blue-medium) !important;
+} */
+
+
+nav {
+	background-color:var(--blue-dark);
+    /* height: 5rem; */
+}
+
+.navbar-brand{
+	color:var(--light-gray) !important;
+	font-size:1.75rem !important;
+    font-weight: 700;
+}
+
+.nav-link{
+	color:var(--light-gray) !important;
+}
+
+.navbar-expand-lg{
+    font-size:1.2rem !important;
+}
+
+
+/* buttons */
+
+
+
+
+#header_middle_letter{
+    color: var(--blue-light);
+}
+
+a {
+  color:var(--blue-light);
+}
+
+a:hover {
+  color: var(--blue-medium) !important;
+  /* text-decoration: none !important; */
+  /* font-size:1.3rem !important; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: "Raleway", sans-serif;
+   */
+   font-family: 'Ubuntu Sans', sans-serif;
+}
+
+
+/* footer */
+
+.footer-lemos {
+  background-color: var(--blue-dark);
+  font-size: smaller;
+}
+
+.footer-lemos-nifme {
+    background-color: var(--darker-b);
+    font-size: smaller;
+  }
+
+.footer-icons{
+    color: var(--blue-light);   
+}
+
+.footer-icons:hover{
+    color: var(--blue-medium);   
+}
+
+
+#page-container {
+    position: relative;
+    /* min-height: 94%; */
+    min-height:93vh;
+  }
+  
+#content-wrap {
+    /* padding-bottom: 100px;    Footer height */
+    padding-bottom: 2.5rem;    /*Footer height*/
+    /* padding-top: 5rem; */
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* height: 100px;            Footer height */
+    height: 2.5rem;            /*Footer height*/
+    
+}
