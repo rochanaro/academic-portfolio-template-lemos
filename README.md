@@ -41,12 +41,12 @@ This repository contains an elegant and responsive academic portfolio template b
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/academic-portfolio-template.git
+   git clone https://github.com/rochanaro/academic-portfolio-template-lemos.git
    ```
 
 1. **Navigate to the Project Directory**
    ```bash
-   cd academic-portfolio-template
+   cd academic-portfolio-template-lemos
    ```
 
 2. **Open `index.html` in Your Browser**
