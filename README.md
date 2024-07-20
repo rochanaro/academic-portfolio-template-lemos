@@ -56,10 +56,12 @@ This repository contains an elegant and responsive academic portfolio template b
 ## Customization
 To customize the template, edit the HTML (located in `pages`) and CSS (located in `assets`) files in the project directory. You can modify the structure, style, color theme, and content to fit your personal needs. The template is built with Bootstrap 4, so you can utilize Bootstrap's extensive class library for additional customization.
 
-<br>
-<br>
 
+### Read More...
+https://ws-dl.blogspot.com/2024/06/2024-06-04-revamp-your-academic.html
+<br>
+<br>
 ---
 
 <b>Rochana R. Obadage</b> <br>
-<i>28th May 2024</i>
+<i>19th July 2024</i>
