@@ -58,7 +58,7 @@ To customize the template, edit the HTML (located in `pages`) and CSS (located i
 
 
 ### Read More...
-https://ws-dl.blogspot.com/2024/06/2024-06-04-revamp-your-academic.html
+[Blog Post](https://ws-dl.blogspot.com/2024/06/2024-06-04-revamp-your-academic.html)
 <br>
 <br>
 ---
