@@ -58,10 +58,19 @@ To customize the template, edit the HTML (located in `pages`) and CSS (located i
 
 
 ### Read More...
-[Blog Post](https://ws-dl.blogspot.com/2024/06/2024-06-04-revamp-your-academic.html)
+[Blog Post] https://ws-dl.blogspot.com/2024/06/2024-06-04-revamp-your-academic.html 
+
+
+## Updates / Changelog
+
+| Date       | Update/Feature Added                                |
+|------------|-----------------------------------------------------|
+| 2025-09-16 | BibTex button for publications with `copy` option            |
+| 2024-07-19 | Initial release of the template                      |
+
 <br>
 <br>
 ---
 
 <b>Rochana R. Obadage</b> <br>
-<i>19th July 2024</i>
+<i>16th September 2025</i>

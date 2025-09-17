@@ -86,3 +86,25 @@ a:hover {
 	border-radius: 5px;
 	border: 1px solid var(--blue-light);
 }
+
+.bibtex-card{
+  font-size: 0.9rem; 
+  border: 1px solid var(--blue-light);
+  background-color: var(--light-gray);
+}
+
+.bibtex-copy-btn{
+  top: 8px; 
+  right: 8px; 
+  border: 1px solid #ccc;
+  color: var(--gray-black);
+  background-color: var(--white-ish);
+  border: 1px solid var(--blue-light);
+}
+
+.bibtex-copy-btn:hover{
+  color: var(--dark-b);
+  /*background-color: var(--blue-medium);*/
+  background-color: var(--light-gray);
+  border: 1px solid var(--blue-medium);
+}
